@@ -1,1 +1,77 @@
 Project Testing Phase
+## PocketSmart AI – Project: Testing Phase
+
+The **Testing Phase** is the stage where the PocketSmart AI application is checked to ensure that all features work correctly, reliably, and according to the project requirements.
+
+### Testing of PocketSmart AI
+
+1. **Login and Registration Testing**
+
+   * Check whether users can register successfully.
+   * Verify login with valid and invalid details.
+   * Check whether incorrect login details show an error message.
+
+2. **Dashboard Testing**
+
+   * Verify that income, expenses, balance, and savings are displayed correctly.
+   * Check whether dashboard values update after adding or deleting transactions.
+
+3. **Income Testing**
+
+   * Add different income amounts.
+   * Verify that the income is calculated correctly.
+   * Check validation for empty or invalid values.
+
+4. **Expense Testing**
+
+   * Add expenses under different categories.
+   * Verify that expenses are stored and displayed correctly.
+   * Check whether deleting or editing an expense updates the total.
+
+5. **Budget Testing**
+
+   * Set a monthly budget.
+   * Compare the budget with actual expenses.
+   * Check whether the application provides an alert when spending approaches or exceeds the budget.
+
+6. **AI Suggestion Testing**
+
+   * Provide different spending patterns.
+   * Check whether PocketSmart AI generates relevant financial suggestions.
+   * Verify that the suggestions are displayed correctly.
+
+7. **Savings Goal Testing**
+
+   * Create a savings goal.
+   * Add savings amounts.
+   * Check whether the progress is calculated and displayed correctly.
+
+8. **Chart and Report Testing**
+
+   * Verify that charts represent the correct income and expense data.
+   * Check category-wise and monthly reports.
+
+9. **Database Testing**
+
+   * Check whether user information and financial records are stored correctly.
+   * Verify that data can be added, updated, and deleted without errors.
+
+10. **Security Testing**
+
+* Check login protection and user data access.
+* Ensure that one user cannot access another user's financial information.
+
+11. **Usability Testing**
+
+* Check whether the application is easy to understand and navigate.
+* Test the website on different screen sizes such as mobile, tablet, and desktop.
+
+12. **Bug Fixing and Final Testing**
+
+* Record errors found during testing.
+* Correct the identified bugs.
+* Perform final testing to confirm that the application works properly.
+
+### Testing Result
+
+> **The testing phase ensures that PocketSmart AI functions correctly and meets its requirements. Errors and bugs are identified and fixed, and the application is verified before the final demonstration and deployment.**

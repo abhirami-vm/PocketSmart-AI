@@ -1,1 +1,79 @@
 Project Design Phase Phase
+## PocketSmart AI – Project: Design Phase
+
+The **Design Phase** focuses on planning the structure, interface, database, and functionality of the PocketSmart AI project before development.
+
+### Design of PocketSmart AI
+
+1. **System Design**
+
+   * Design the overall structure of the PocketSmart AI application.
+   * Plan how the user interface, database, and AI features will work together.
+   * Main flow: **User → Application → Database → AI Analysis → Results**
+
+2. **User Interface Design**
+
+   * Create a simple and user-friendly interface.
+   * Design pages such as:
+
+     * Home page
+     * Login/Register page
+     * Dashboard
+     * Income & Expense page
+     * Budget page
+     * Savings Goal page
+     * AI Suggestions page
+
+3. **Dashboard Design**
+
+   * Display:
+
+     * Total Income
+     * Total Expenses
+     * Available Balance
+     * Savings
+     * Monthly Budget
+   * Use cards, charts, and graphs for easy understanding.
+
+4. **Database Design**
+
+   * Store user and financial information securely.
+   * Main data may include:
+
+     * User ID
+     * Income
+     * Expense
+     * Expense category
+     * Date
+     * Budget
+     * Savings goal
+
+5. **AI Feature Design**
+
+   * Design the AI to analyze the user's spending information.
+   * Generate personalized suggestions based on spending patterns.
+   * Example: *“Your food expenses are higher this month. Consider reducing unnecessary food spending.”*
+
+6. **Navigation Design**
+
+   * Provide simple navigation between different sections.
+   * Example:
+     **Dashboard → Expenses → Budget → Savings → AI Insights**
+
+7. **Security Design**
+
+   * Protect user login information.
+   * Keep financial data private.
+   * Provide secure access to user accounts.
+
+8. **Responsive Design**
+
+   * Make the application usable on:
+
+     * Mobile phones
+     * Tablets
+     * Laptops/desktops
+
+### Design Outcome
+
+> **The design phase creates the blueprint for PocketSmart AI. It defines the user interface, system structure, database, navigation, security, and AI features required to build an easy-to-use personal finance management application.**
